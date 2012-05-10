@@ -1,9 +1,9 @@
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/maguro.mk \
     $(LOCAL_DIR)/toro.mk \
+    $(LOCAL_DIR)/toroplus.mk \
     $(LOCAL_DIR)/crespo.mk \
     $(LOCAL_DIR)/crespo4g.mk \
-    $(LOCAL_DIR)/a500.mk \
     $(LOCAL_DIR)/captivatemtd.mk \
     $(LOCAL_DIR)/fascinatemtd.mk \
     $(LOCAL_DIR)/galaxysmtd.mk \
@@ -13,9 +13,11 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/p4.mk \
     $(LOCAL_DIR)/p4vzw.mk \
     $(LOCAL_DIR)/p4wifi.mk \
+    $(LOCAL_DIR)/p5.mk \
     $(LOCAL_DIR)/p5wifi.mk \
     $(LOCAL_DIR)/p990.mk \
     $(LOCAL_DIR)/p999.mk \
+    $(LOCAL_DIR)/picasso.mk \
     $(LOCAL_DIR)/pyramid.mk \
     $(LOCAL_DIR)/stingray.mk \
     $(LOCAL_DIR)/supersonic.mk \
@@ -24,3 +26,4 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/vibrantmtd.mk \
     $(LOCAL_DIR)/vivow.mk \
     $(LOCAL_DIR)/wingray.mk \
+    $(LOCAL_DIR)/bravo.mk \
